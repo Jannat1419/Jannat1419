@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SADIA JANNAT AISHY</h1>
-<h3 align="center">A Passional Frontend Developer Drom Bangladesh</h3>
+<h3 align="center">A Professional Frontend Developer Drom Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannat1419&label=Profile%20views&color=0e75b6&style=flat" alt="jannat1419" /> </p>
 
